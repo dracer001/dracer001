@@ -1,92 +1,49 @@
-# Hi, I'm David "Dracer" Olubanjo 👋
+# David "Dracer" Olubanjo
 
 ### Software Engineer
 
-I build scalable software, intelligent systems, and modern web applications.
+Building reliable software, intelligent systems, and engineering solutions.
 
-My interests span **Backend Engineering**, **Full-Stack Development**, **Artificial Intelligence**, **Embedded Systems**, and the engineering principles that connect software with the physical world. I'm fascinated by understanding **how things work**, from distributed software systems to electronics, robotics, and the fundamentals of physics.
+Curious about how things work—from distributed systems and backend architecture to AI, embedded systems, robotics, and the physics that shape our world.
 
 ---
 
-## 🚀 Current Focus
+### Current Focus
 
 - Backend Engineering
 - Software Architecture
-- Distributed Systems
-- Artificial Intelligence & Machine Learning
-- Embedded Systems & IoT
-- Engineering Mathematics & Physics
+- Full-Stack Development
+- Artificial Intelligence
+- Embedded Systems
 
 ---
 
-## 🛠 Tech Stack
+### Tech
 
 **Languages**
 
 JavaScript • TypeScript • Python • PHP • C/C++ • SQL
 
-**Backend**
+**Frameworks**
 
-Node.js • Express • Laravel • Flask • REST APIs
+Node.js • Express • Laravel • Flask • React • Next.js
 
-**Frontend**
-
-React • Next.js • HTML • CSS • Tailwind CSS • Bootstrap
-
-**Databases**
+**Data**
 
 PostgreSQL • MySQL • MongoDB • Redis
 
-**AI & Data**
+**Engineering**
 
-PyTorch • TensorFlow • Scikit-learn • Pandas • NumPy
-
-**Embedded**
-
-ESP32 • Arduino • Raspberry Pi • MQTT
-
-**Tools**
-
-Linux • Docker • Git
+Docker • Git • Linux • ESP32 • Arduino • Raspberry Pi
 
 ---
 
-## 💡 Engineering Principles
+### Philosophy
 
-I strive to build software that is:
-
-- Reliable
-- Maintainable
-- Scalable
-- Well documented
-- Secure
-- Simple
-
-I believe great engineering starts with understanding **why** before **how**.
+> Build with curiosity.  
+> Engineer with purpose.  
+> Never stop learning.
 
 ---
 
-## 📖 Currently Exploring
-
-- System Design
-- Distributed Systems
-- Machine Learning Systems
-- Backend Scalability
-- Engineering Physics
-
----
-
-## 🎯 Current Goals
-
-- Build production-quality software
-- Contribute to open source
-- Share knowledge through technical writing
-- Grow into a world-class Software Engineer
-
----
-
-## 📫 Connect
-
-📧 **Email:** `daviddracer@gmail.com`
-
-> *"Build with curiosity. Engineer with purpose."*
+📫 **Email** • `daviddracer@gmail.com`
