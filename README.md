@@ -2,31 +2,32 @@
 
 ### Software Engineer
 
-Building reliable software, intelligent systems, and engineering solutions.
+I build reliable software, intelligent systems, and modern web applications.
 
-Curious about how things work—from distributed systems and backend architecture to AI, embedded systems, robotics, and the physics that shape our world.
+My interests span backend engineering, full-stack development, artificial intelligence, embedded systems, robotics, and understanding the engineering principles behind how technology works.
 
 ---
 
-### Current Focus
+### Currently Exploring
 
 - Backend Engineering
 - Software Architecture
-- Full-Stack Development
-- AI/ML
+- Distributed Systems
+- Artificial Intelligence
 - Embedded Systems
+- Engineering Physics
 
 ---
 
-### Tech
+### Core Technologies
 
 **Languages**
 
 JavaScript • TypeScript • Python • PHP • C/C++ • SQL
 
-**Frameworks**
+**Software**
 
-Node.js • Express • Laravel • Flask • React • Next.js
+Node.js • Express • Laravel • React • Next.js
 
 **Data**
 
@@ -34,16 +35,10 @@ PostgreSQL • MySQL • MongoDB • Redis
 
 **Engineering**
 
-Docker • Git • Linux • ESP32 • Arduino • Raspberry Pi
+Linux • Docker • Git • ESP32 • Arduino • Raspberry Pi
 
 ---
 
-### Philosophy
+📫 **Email:** **daviddracer@gmail.com**
 
-> Build with curiosity.  
-> Engineer with purpose.  
-> Never stop learning.
-
----
-
-📫 **Email** • `daviddracer@gmail.com`
+> *Always curious. Always building.*
