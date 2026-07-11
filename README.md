@@ -13,7 +13,7 @@ My interests span backend engineering, full-stack development, artificial intell
 - Backend Engineering
 - Software Architecture
 - Distributed Systems
-- Artificial Intelligence
+- AI/ML
 - Embedded Systems
 - Engineering Physics
 
