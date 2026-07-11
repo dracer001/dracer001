@@ -13,7 +13,7 @@ Curious about how things work—from distributed systems and backend architectur
 - Backend Engineering
 - Software Architecture
 - Full-Stack Development
-- Artificial Intelligence
+- AI/ML
 - Embedded Systems
 
 ---
