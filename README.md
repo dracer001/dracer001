@@ -1,3 +1,5 @@
+<img src="banner.png" alt="David Olubanjo Banner" width="100%">
+
 # David "Dracer" Olubanjo
 
 ### • Software Engineer     • Engineering Explorer
