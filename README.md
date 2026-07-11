@@ -1,6 +1,6 @@
 # David "Dracer" Olubanjo
 
-### Software Engineer
+### Software Engineer • Engineering Explorer
 
 I build reliable software, intelligent systems, and modern web applications.
 
